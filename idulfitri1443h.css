@@ -19,7 +19,7 @@ h4 {
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 15px;
   line-height: 0.5px;
   font-family: "Galada", kursif;
 }
@@ -153,7 +153,8 @@ h4 {
   background-position: 10px -10px;
   background-attachment: fixed;
   height: 400px;
-}.cover img{
+}
+.cover img{
   width:300px;
   height: 400px
 }
